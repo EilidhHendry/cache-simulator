@@ -1,0 +1,227 @@
+[
+    {
+        "write_missrate": 0.043107672084130022, 
+        "n_sets": 128, 
+        "n_ways": 1, 
+        "total_missrate": 0.092710907289092717, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.11766757204850281
+    }, 
+    {
+        "write_missrate": 0.057268761950286809, 
+        "n_sets": 64, 
+        "n_ways": 2, 
+        "total_missrate": 0.1210908789091211, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.15320142917053095
+    }, 
+    {
+        "write_missrate": 0.083828274378585088, 
+        "n_sets": 32, 
+        "n_ways": 4, 
+        "total_missrate": 0.16216483783516217, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.20157797983107889
+    }, 
+    {
+        "write_missrate": 0.089226816443594648, 
+        "n_sets": 16, 
+        "n_ways": 8, 
+        "total_missrate": 0.20142779857220142, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.25787900150462739
+    }, 
+    {
+        "write_missrate": 0.20102174952198854, 
+        "n_sets": 8, 
+        "n_ways": 16, 
+        "total_missrate": 0.30637069362930636, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.35937445981472488
+    }, 
+    {
+        "write_missrate": 0.035806046845124284, 
+        "n_sets": 256, 
+        "n_ways": 1, 
+        "total_missrate": 0.074758925241074761, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.094357121276573364
+    }, 
+    {
+        "write_missrate": 0.04293738049713193, 
+        "n_sets": 128, 
+        "n_ways": 2, 
+        "total_missrate": 0.09128490871509129, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.11560979495882191
+    }, 
+    {
+        "write_missrate": 0.057238886233269601, 
+        "n_sets": 64, 
+        "n_ways": 4, 
+        "total_missrate": 0.12062587937412063, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.15251750763962896
+    }, 
+    {
+        "write_missrate": 0.0836729206500956, 
+        "n_sets": 32, 
+        "n_ways": 8, 
+        "total_missrate": 0.15960584039415959, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.19780964735202117
+    }, 
+    {
+        "write_missrate": 0.0914854206500956, 
+        "n_sets": 16, 
+        "n_ways": 16, 
+        "total_missrate": 0.20096979903020096, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.25605420867272627
+    }, 
+    {
+        "write_missrate": 0.031468092734225621, 
+        "n_sets": 512, 
+        "n_ways": 1, 
+        "total_missrate": 0.06218193781806218, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.077634864064959022
+    }, 
+    {
+        "write_missrate": 0.035626792543021035, 
+        "n_sets": 256, 
+        "n_ways": 2, 
+        "total_missrate": 0.073311926688073306, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.092272287950505127
+    }, 
+    {
+        "write_missrate": 0.017737213193116635, 
+        "n_sets": 128, 
+        "n_ways": 4, 
+        "total_missrate": 0.08048291951708049, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.11205189987388788
+    }, 
+    {
+        "write_missrate": 0.055485181644359463, 
+        "n_sets": 64, 
+        "n_ways": 8, 
+        "total_missrate": 0.11151688848311152, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.13970788283447144
+    }, 
+    {
+        "write_missrate": 0.07364663001912046, 
+        "n_sets": 32, 
+        "n_ways": 16, 
+        "total_missrate": 0.1494058505941494, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.1875222650278604
+    }, 
+    {
+        "write_missrate": 0.029436543977055449, 
+        "n_sets": 1024, 
+        "n_ways": 1, 
+        "total_missrate": 0.052411947588052413, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.063971464689356827
+    }, 
+    {
+        "write_missrate": 0.031157385277246655, 
+        "n_sets": 512, 
+        "n_ways": 2, 
+        "total_missrate": 0.059747940252059747, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.074132584577043387
+    }, 
+    {
+        "write_missrate": 0.035190607074569787, 
+        "n_sets": 256, 
+        "n_ways": 4, 
+        "total_missrate": 0.070265929734070268, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.087913227643657346
+    }, 
+    {
+        "write_missrate": 0.026816443594646272, 
+        "n_sets": 128, 
+        "n_ways": 8, 
+        "total_missrate": 0.078659921340078653, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.10474370980082101
+    }, 
+    {
+        "write_missrate": 0.038865320267686423, 
+        "n_sets": 64, 
+        "n_ways": 16, 
+        "total_missrate": 0.092541907458092543, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.11954798047742232
+    }, 
+    {
+        "write_missrate": 0.0026290630975143404, 
+        "n_sets": 2048, 
+        "n_ways": 1, 
+        "total_missrate": 0.035729964270035733, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.052383879894360427
+    }, 
+    {
+        "write_missrate": 0.0056853489483747613, 
+        "n_sets": 1024, 
+        "n_ways": 2, 
+        "total_missrate": 0.040805959194040807, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.058476042454241144
+    }, 
+    {
+        "write_missrate": 0.018534894837476099, 
+        "n_sets": 512, 
+        "n_ways": 4, 
+        "total_missrate": 0.051870948129051873, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.068643174838902657
+    }, 
+    {
+        "write_missrate": 0.032803537284894838, 
+        "n_sets": 256, 
+        "n_ways": 8, 
+        "total_missrate": 0.06301593698406302, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.078216573147286639
+    }, 
+    {
+        "write_missrate": 0.015296367112810707, 
+        "n_sets": 128, 
+        "n_ways": 16, 
+        "total_missrate": 0.067520932479067527, 
+        "trace_file": "gcc_memref.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.09379645593365811
+    }
+]
