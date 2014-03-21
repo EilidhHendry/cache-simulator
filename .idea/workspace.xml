@@ -23,46 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="branchsim.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/branchsim.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="19" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="4180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parse.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="24" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="553" max-vertical-offset="940">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gcc_memref.out" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gcc_memref.out">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20000140">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mintest.out" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mintest.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="400">
+            <state line="7" column="9" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testout.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testout.json">
+      <file leaf-file-name="gccout.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gccout.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4640">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="36.0" vertical-offset="900" max-vertical-offset="4660">
               <folding />
             </state>
           </provider>
@@ -71,7 +44,7 @@
       <file leaf-file-name="cachesim.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cachesim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="23" selection-start="943" selection-end="943" vertical-scroll-proportion="-0.33182505" vertical-offset="820" max-vertical-offset="3480">
+            <state line="126" column="11" selection-start="4643" selection-end="4643" vertical-scroll-proportion="-0.18390805" vertical-offset="2600" max-vertical-offset="3840">
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -82,7 +55,16 @@
       <file leaf-file-name="test.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="32" selection-start="4444" selection-end="4453" vertical-scroll-proportion="0.0" vertical-offset="2951" max-vertical-offset="3940">
+            <state line="125" column="32" selection-start="4444" selection-end="4453" vertical-scroll-proportion="0.0" vertical-offset="2951" max-vertical-offset="3860">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testout.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testout.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="1" selection-start="1063" selection-end="1063" vertical-scroll-proportion="-32.0" vertical-offset="0" max-vertical-offset="920">
               <folding />
             </state>
           </provider>
@@ -108,21 +90,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/branchsim.py" />
-        <option value="$PROJECT_DIR$/parse.py" />
         <option value="$PROJECT_DIR$/ncachesim" />
         <option value="$PROJECT_DIR$/trace_read.py" />
         <option value="$PROJECT_DIR$/test.out" />
         <option value="$PROJECT_DIR$/mintest.out" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/testout.json" />
+        <option value="$PROJECT_DIR$/parse.py" />
         <option value="$PROJECT_DIR$/cachesim.py" />
+        <option value="$PROJECT_DIR$/testout.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="2" />
     <option name="y" value="29" />
-    <option name="width" value="1260" />
+    <option name="width" value="1268" />
     <option name="height" value="760" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -139,7 +121,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -150,29 +132,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="car" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="car" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="car" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
@@ -181,6 +141,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testout.json" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -415,7 +376,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="29" width="1260" height="760" extended-state="0" />
+    <frame x="2" y="29" width="1268" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,7 +387,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39942113" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -459,7 +420,7 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="29" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -582,7 +543,9 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1144" column="0" selection-start="47625" selection-end="47625" vertical-scroll-proportion="0.38502672" vertical-offset="21436" max-vertical-offset="29500" />
+        <state line="1144" column="0" selection-start="47625" selection-end="47625" vertical-scroll-proportion="0.38502672" vertical-offset="21436" max-vertical-offset="29500">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.out">
@@ -595,16 +558,23 @@
         <state line="129" column="27" selection-start="4334" selection-end="4340" vertical-scroll-proportion="0.33281004" vertical-offset="2368" max-vertical-offset="5160" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/branchsim.py">
+    <entry file="file://$PROJECT_DIR$/trace_read.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="4180">
+        <state line="19" column="65" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="940">
+        <state line="15" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.4524887" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/branchsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="4180">
           <folding />
         </state>
       </provider>
@@ -623,9 +593,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testout.json">
+    <entry file="file://$PROJECT_DIR$/gccout.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="36.0" vertical-offset="900" max-vertical-offset="4660">
           <folding />
         </state>
       </provider>
@@ -637,16 +607,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trace_read.py">
+    <entry file="file://$PROJECT_DIR$/testout.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="65" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="500">
+        <state line="40" column="1" selection-start="1063" selection-end="1063" vertical-scroll-proportion="-32.0" vertical-offset="0" max-vertical-offset="920">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cachesim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="23" selection-start="943" selection-end="943" vertical-scroll-proportion="-0.33182505" vertical-offset="820" max-vertical-offset="3480">
+        <state line="126" column="11" selection-start="4643" selection-end="4643" vertical-scroll-proportion="-0.18390805" vertical-offset="2600" max-vertical-offset="3840">
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
