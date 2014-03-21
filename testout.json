@@ -1,0 +1,227 @@
+[
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 128, 
+        "n_ways": 1, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 64, 
+        "n_ways": 2, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 32, 
+        "n_ways": 4, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 16, 
+        "n_ways": 8, 
+        "total_missrate": 0.5333333333333333, 
+        "trace_file": "mintest.out", 
+        "cache_size": 4, 
+        "read_missrate": 0.75
+    }, 
+    {
+        "write_missrate": 1.0, 
+        "n_sets": 8, 
+        "n_ways": 16, 
+        "total_missrate": 1.0, 
+        "trace_file": "mintest.out", 
+        "cache_size": 4, 
+        "read_missrate": 1.0
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 256, 
+        "n_ways": 1, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 128, 
+        "n_ways": 2, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 64, 
+        "n_ways": 4, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 32, 
+        "n_ways": 8, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.42857142857142855, 
+        "n_sets": 16, 
+        "n_ways": 16, 
+        "total_missrate": 0.6, 
+        "trace_file": "mintest.out", 
+        "cache_size": 8, 
+        "read_missrate": 0.75
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 512, 
+        "n_ways": 1, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 256, 
+        "n_ways": 2, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 128, 
+        "n_ways": 4, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 64, 
+        "n_ways": 8, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 32, 
+        "n_ways": 16, 
+        "total_missrate": 0.5333333333333333, 
+        "trace_file": "mintest.out", 
+        "cache_size": 16, 
+        "read_missrate": 0.75
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 1024, 
+        "n_ways": 1, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 512, 
+        "n_ways": 2, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 256, 
+        "n_ways": 4, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 128, 
+        "n_ways": 8, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 64, 
+        "n_ways": 16, 
+        "total_missrate": 0.5333333333333333, 
+        "trace_file": "mintest.out", 
+        "cache_size": 32, 
+        "read_missrate": 0.75
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 2048, 
+        "n_ways": 1, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 1024, 
+        "n_ways": 2, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 512, 
+        "n_ways": 4, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 256, 
+        "n_ways": 8, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.625
+    }, 
+    {
+        "write_missrate": 0.2857142857142857, 
+        "n_sets": 128, 
+        "n_ways": 16, 
+        "total_missrate": 0.4666666666666667, 
+        "trace_file": "mintest.out", 
+        "cache_size": 64, 
+        "read_missrate": 0.625
+    }
+]
